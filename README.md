@@ -84,14 +84,6 @@ bash Update.sh
 
 #### Everything is ready!  now the program will give you all the proxy servers.
 ---
-## Screenshot
-
-#### here you can see a screenshot of the proxy
-<br>
-<p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/Aruack/Aruack.menu.io/master/img/IMG_20210522_110125.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/Aruack/Aruack.menu.io/master/img/IMG_20210522_110043.jpg"/>
-</p>
 
 ###### By Aruack: Report bug: officialAruack@gmail.com
 
