@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/Aruack/Aruack.menu.io/master/img/termuxProxy/IMG-1a140ab0d5016e30a0647e85ae27dbf4-V.jpg"/>
+
 
 <p align="center">
 <a href="https://github.com/Aruack/termuxProxy"><img title="Version" src="https://img.shields.io/badge/Version-1.6.3-yellow?style=for-the-badge&logo="></a>
